@@ -1,20 +1,21 @@
-## Find Places around the World
+## Your Daily Journal with Emojis
 
-Where is Guinea? Where is Sapporo?
+Do you love emojis? Or would you just like to quickly write diary entries?
 
-Do you know it? 
-If yes, prove that you're a geography genius with this game. If not, learn where the world's biggest cities are through playing!
+Say hello to your Emoji Diary!
 
-[![App Store badge](img/app_store_badge.svg)](https://apps.apple.com/app/id1245292299)
+- Quick overview over your last weeks
+- Rapid diary entries
+- Optional daily reminder notifications
+
+[![App Store badge](img/app_store_badge.svg)](https://apps.apple.com/app/id1247061044)
 
 ### Support or Contact
 
-Having trouble with City Challenge? [Contact me](https://www.iubenda.com/privacy-policy/38160969) and I’ll help you sort it out. I am also always happy to receive feedback.
+Having trouble with Emoji Diary? [Contact me](https://www.iubenda.com/privacy-policy/83059905) and I’ll help you sort it out. I am also always happy to receive feedback.
 
 
 ### Imprint and Privacy Policy
 
-To display the map widget the app uses Mapbox with telemetry disabled. Apart from that, it does not use third-party libraries.
-
-For more information, take a look at the [simplified](https://www.iubenda.com/privacy-policy/38160969) or the [full privacy policy](https://www.iubenda.com/privacy-policy/38160969/legal).
+The app does not track you. The only third-party library that it uses is [ISEmojiView](https://github.com/isaced/ISEmojiView), which does not collect data about users, as far as I know. For more information, take a look at the [simplified](https://www.iubenda.com/privacy-policy/83059905) or the [full privacy policy](https://www.iubenda.com/privacy-policy/83059905/legal).
 

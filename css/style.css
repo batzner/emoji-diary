@@ -3,6 +3,10 @@
     box-sizing: inherit;
 }
 
+body {
+    background-color: #eeeeee;
+}
+
 .app-icon, .app-icon::before {
     border: none;
     border-radius: 22.5%;
