@@ -17,5 +17,5 @@ Having trouble with Emoji Diary? [Contact me](https://www.iubenda.com/privacy-po
 
 ### Imprint and Privacy Policy
 
-The app does not track you. The only third-party library that it uses is [ISEmojiView](https://github.com/isaced/ISEmojiView), which does not collect data about users, as far as I know. For more information, take a look at the [simplified](https://www.iubenda.com/privacy-policy/83059905) or the [full privacy policy](https://www.iubenda.com/privacy-policy/83059905/legal).
+The app does not track you. The only third-party libraries that it uses are [ISEmojiView](https://github.com/isaced/ISEmojiView) and [Armchair](https://github.com/UrbanApps/Armchair), which do not collect data about users, as far as I know. For more information, take a look at the [simplified](https://www.iubenda.com/privacy-policy/83059905) or the [full privacy policy](https://www.iubenda.com/privacy-policy/83059905/legal).
 
